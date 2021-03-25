@@ -30,8 +30,6 @@ The task
 
 Write a simple console application that outputs the total order cost with and without tax for the below purchase:
 
-  
-## Standard Rate
 
 | Title | Quantity    |
 | ----------------    | ------ |
